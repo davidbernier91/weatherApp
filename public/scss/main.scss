@@ -1,0 +1,12 @@
+@import "./vars";
+@import "./base";
+@import "./mixins";
+@import "./functions";
+
+
+h1{
+    color: $primaryBlue;
+}
+p{
+    color: rgb(159, 97, 50);
+}
